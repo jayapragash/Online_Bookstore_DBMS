@@ -6,3 +6,7 @@ The main objective of this project was to improve the business model based on th
 SQL
 Entity Relationship Diagram
 ```
+
+## Screenshot of the application
+
+![Screenshot](https://github.com/jayapragash/Online_Bookstore_DBMS/blob/master/Online%20bookstore.JPG)
